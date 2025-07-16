@@ -20,3 +20,4 @@ __pycache__/
 
 # System-specific
 .DS_Store
+.venv/
